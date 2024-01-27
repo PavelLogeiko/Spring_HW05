@@ -36,7 +36,11 @@ NOT_STARTED, IN_PROGRESS, COMPLETED;
 
 Скрины работы приложения:
 
-![1]()
+![1](https://github.com/PavelLogeiko/Spring_HW05/blob/main/images/1.png)
 
 
-![2]()
+![2](https://github.com/PavelLogeiko/Spring_HW05/blob/main/images/2.png)
+
+
+![3](https://github.com/PavelLogeiko/Spring_HW05/blob/main/images/1.png)
+
