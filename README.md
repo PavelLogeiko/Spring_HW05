@@ -42,5 +42,5 @@ NOT_STARTED, IN_PROGRESS, COMPLETED;
 ![2](https://github.com/PavelLogeiko/Spring_HW05/blob/main/images/2.png)
 
 
-![3](https://github.com/PavelLogeiko/Spring_HW05/blob/main/images/1.png)
+![3](https://github.com/PavelLogeiko/Spring_HW05/blob/main/images/3.png)
 
